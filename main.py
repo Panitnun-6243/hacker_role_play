@@ -20,5 +20,5 @@ print('''
 #             `""'                   `""'
 
 ''')
-print("Welcome to Hacker role play.")
+print("Welcome to Hacker role play.\n")
 print("Your mission is to hack this computer before cybersecurity team found you.") 
